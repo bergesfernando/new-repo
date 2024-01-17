@@ -65,8 +65,8 @@ git log
 ´´´
 - Now it's time to see the changes we have made. (all changes or file spesifik changes)
 
-´´´bash 
-git diff
+´´´bash \
+git diff \
 git diff README.md
 ´´´
 
